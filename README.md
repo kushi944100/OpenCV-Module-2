@@ -5,11 +5,8 @@
 1. [Part1: Segmentation](https://docs.opencv.org/master/d3/db4/tutorial_py_watershed.html)
 3. [Part2: Contours](Part2-contours.md)
 4. [Part3: Project: Finding an object and mark it's extreme points](https://www.pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv/)
-5. [Part4: Finding specific patterns in image](Part4-specific-patterns.md)
-   * Finding Lines
-   * Finding shapes
-   * Finding similarity
-6. [Part4: Finding specific patterns in image Notebook](Part4-specific-patterns.md)
+5. [Part4: Finding specific patterns in image](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Sathyashree_OpenCV_Shape_Detection.md)
+6. [Part4: Finding specific patterns in image Notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Sathyashree_OpenCV_Shape_Detection.ipynb)
 7. [Part5: Getting image features](Part5-features.md)
 8. [Part5: Getting image features Notebook](Part5-features.ipynb)
 9. [Part6: Object Detection](Part6-P4.md)
