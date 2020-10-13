@@ -2,8 +2,7 @@
 
 > 1 Competetion, 2 Projects 
 
-1. [Part1: Segmentation](Part1-segmentation.md)
-2. [Part1: Segmentation Notebook](Part1-segmentation.ipynb)
+1. [Part1: Segmentation](https://docs.opencv.org/master/d3/db4/tutorial_py_watershed.html)
 3. [Part2: Contours](Part2-contours.md)
 4. [Part3: Project: Finding an object and mark it's extreme points](Part3-P3.md)
 5. [Part4: Finding specific patterns in image](Part4-specific-patterns.md)
