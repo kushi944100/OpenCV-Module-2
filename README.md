@@ -10,7 +10,7 @@
 7. [Part5: Getting image features](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Avinash_OpenCV_Feature_Detection%26Description.md)
 8. [Part5: Getting image features Notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Avinash_OpenCV_Feature_Detection_and_Description.ipynb)
 
-* **Notebooks for Image processing**
+8 **Notebooks for Image processing**
     * [Blending](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Neelesh_Blending-and-Pasting-Images_opencv.ipynb)
     * [Blurring and smoothing](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Neelesh_Blurring-and-Smoothing_opencv.ipynb)
     * [Color mapping](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Neelesh_Color-Mappings_opencv.ipynb)
