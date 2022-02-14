@@ -7,6 +7,7 @@ The main aim of this training program is to provide you a path you have to work 
 > 1 Competetion, 2 Projects 
 
 1. [Part1: Segmentation](https://docs.opencv.org/master/d3/db4/tutorial_py_watershed.html)
+2. [Part1: Segmentation Notebook](Segmentation.ipynb)
 3. [Part2: Contours](Part2-contours.md)
 4. [Part3: Project: Finding an object and mark it's extreme points](https://www.pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv/)
 5. [Part4: Finding specific patterns in image](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Sathyashree_OpenCV_Shape_Detection.md)
